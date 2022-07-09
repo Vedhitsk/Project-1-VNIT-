@@ -1,2 +1,2 @@
-# Project-1-VNIT-
-It's about connect different webpages together 
+# All front-end
+It's developing, practicising and learning more about websites and there designs 
