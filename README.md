@@ -1,2 +1,2 @@
-# All front-end
-It's developing, practicising and learning more about websites and there designs 
+# Project-1 (VNIT)
+Website about to publish all the Sponsors 
