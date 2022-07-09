@@ -1,0 +1,107 @@
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    border-radius: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#navbar{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+}
+
+.index ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    margin: 0% 33%;
+    padding: 0px 33px;
+}
+.index ul a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 13px 25px;
+    margin: 20px 130px;
+    font-size: 1.8rem;
+    font-weight: bolder;
+    color: rgb(45 101 175);
+}
+.index ul a:hover{
+    border-bottom: 4px solid #235188;
+}
+/* .index ul a::after{
+    border-bottom: 3px solid #9dc4f0;
+} */
+
+.sponsors1{
+    height: 255px;
+    width: 234px;
+    display: flex;
+}
+.sponsors1 img{
+    display: block;
+    margin: 20px 79px;
+    padding: 23px 23px;
+    /* border: 2px solid grey; */
+    border-radius: 23px;
+    box-shadow: 8px 8px 10px 1px;
+
+}
+.sponsors1 :hover{
+    border-radius: 23px;
+    box-shadow: 8px 8px 15px 3px;    
+}
+
+.sponsors2{
+    height: 255px;
+    width: 234px;
+    display: flex;
+    margin: 56px 20px;    
+}
+.sponsors2 img{
+    display: block;
+    margin: 26px 57px;
+    padding: 23px 23px;
+    /* border: 2px solid grey; */
+    border-radius: 23px;
+    box-shadow: 8px 8px 10px 1px;
+}
+
+.sponsors2 :hover{
+    border-radius: 23px;
+    box-shadow: 8px 8px 15px 3px;
+}
+.sponsors3{
+    height: 255px;
+    width: 234px;
+    display: flex;
+    margin: -10px -4px;    
+}
+.sponsors3 img{
+    display: block;
+    margin: 26px 83px;
+    padding: 23px 23px;
+    /* border: 2px solid grey; */
+    border-radius: 23px;
+    box-shadow: 8px 8px 10px 1px;
+}
+.sponsors3 :hover{
+    border-radius: 23px;
+    box-shadow: 8px 8px 15px 3px;    
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 48px;
+    margin-top: 31px;
+}
+
+.center{
+    text-align: center;
+}
